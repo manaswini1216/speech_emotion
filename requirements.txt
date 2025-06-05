@@ -2,3 +2,4 @@ streamlit
 tensorflow
 librosa
 numpy
+scikit-learn
